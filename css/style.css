@@ -1,0 +1,180 @@
+/*Navigation*/
+#navigation{
+    background: transparent linear-gradient(90deg, #2D1550 0%, #401E73 100%) 0% 0% no-repeat padding-box;
+}
+
+#navigation ul li a{
+    color: white;
+    font: normal normal normal 23px/39px Fjalla One;
+letter-spacing: 0px;
+padding-bottom: 0;
+padding: 0;
+}
+
+#navigation ul li a:hover{
+    color: #824D74;
+}
+
+/*Herosection*/
+#herosection h1{
+    font: normal normal normal 115px/110px Fjalla One;
+letter-spacing: 0px;
+color: #4D3C77;
+margin: 0%;
+}
+
+#herosection p{
+    text-align: left;
+font: normal normal normal 25px/47px Cantarell;
+letter-spacing: 0px;
+color: #824D74;
+opacity: 1;
+}
+
+.min{
+    margin: 0px;
+    padding: 0%;
+}
+
+/*Info*/
+#Info{
+    margin-top: 50px;
+}
+
+/*About me*/
+
+
+#About h1{
+    font: normal normal normal 115px/110px Fjalla One;
+letter-spacing: 0px;
+color: #4D3C77;
+}
+
+#About p{
+    font: normal normal normal 25px/33px Cantarell;
+letter-spacing: 0px;
+color: #824D74;
+padding: 0;
+}
+
+/*Skills*/
+
+#Skills{
+    margin-top: 10%;
+}
+
+#Skills h1{
+    font: normal normal normal 115px/110px Fjalla One;
+letter-spacing: 0px;
+color: #4D3C77;
+}
+
+.border {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #401E73;
+    border-radius: 5px;
+    
+}
+
+/*Education*/
+.bg{
+    background-color: #824D74;
+}
+
+
+
+.text-center{
+    font: normal normal normal 115px/110px Fjalla One;
+letter-spacing: 0px;
+color: #401E73;
+}
+
+.pink{
+    text-align: left;
+font: normal normal normal 25px/33px Cantarell;
+letter-spacing: 0px;
+color: #BE7B72;
+}
+
+.title{
+    font: normal normal normal 50px/55px Fjalla One;
+letter-spacing: 0px;
+color: #4D3C77;
+}
+
+/*My Projects*/
+
+#Projects h1{
+    font: normal normal normal 115px/110px Fjalla One;
+    letter-spacing: 0px;
+    color: #4D3C77;
+}
+
+.text{
+    text-align: left;
+font: normal normal normal 25px/33px Cantarell;
+letter-spacing: 0px;
+color: #824D74;
+opacity: 1;
+}
+
+.text-start{
+    text-align: left;
+font: normal normal normal 25px/33px Quattrocento;
+letter-spacing: 0px;
+color: #006EB7;
+}
+
+/*Contact me*/
+#Contact h1{
+    font: normal normal normal 100px/110px Fjalla One;
+    letter-spacing: 0px;
+    color: #4D3C77;
+}
+
+
+input, textarea{
+    width: 450px;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+    background-color: #824D74;
+    color: aliceblue;
+}
+
+::placeholder{
+    color: white
+}
+
+.submit{
+    font: normal normal normal 30px/50px Fjalla One;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    padding-top: 5px;
+}
+
+.submit:hover{
+    background: white;
+    color: black;
+}
+
+@media (max-width:600px) {
+    .form{
+        width: 100%;
+    }
+    
+}
+
+
+
+
+
+ 
+
+
+
